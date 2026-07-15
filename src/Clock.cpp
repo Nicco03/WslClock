@@ -6,7 +6,7 @@
 #include <string>
 
 // ---------------------------------------------------------------------------
-//  Starting point: every method throws "not implemented" so the project
+//  Starting point: every method throws "not implemented" so the project aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 //  compiles and links but every test fails. Replace each TODO with a real
 //  implementation. You are free to change the private representation in the
 //  header; the seconds-since-midnight field is only a suggestion.
